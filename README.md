@@ -1,25 +1,22 @@
-# 🌐 Vurfex Studios – Official Game Website
+# 🎮 Vurfex Studios – Official Game Hub
 
-Welcome to Vurfex Studios! We make exciting Roblox games with creativity, chaos, and competition. Explore our current titles below:
+Welcome to the official GitHub of **Vurfex Studios** – creators of action-packed Roblox experiences.  
+Here are our current releases 👇
 
 ---
 
 ## 🚀 DASHFALL  
 High-speed chaos meets explosive action.  
-🔗 [Play Dashfall](https://www.roblox.com/games/YOUR_GAME_ID/Dashfall)
-
----
+🔗 [Play Dashfall]([https://www.roblox.com/games/YOUR_ID/Dashfall](https://www.roblox.com/games/136790899105739/Dashfall)
 
 ## ⚔️ INFRATAG  
 Step into the future of laser combat.  
-🔗 [Play InfraTag](https://www.roblox.com/games/YOUR_GAME_ID/InfraTag)
-
----
+🔗 [Play InfraTag]([https://www.roblox.com/games/YOUR_ID/InfraTag](https://www.roblox.com/games/131683518973874/InfraTag)
 
 ## 🚗 CAR PHOBIA RACING  
 A race against fear itself.  
-🔗 [Play Car Phobia Racing](https://www.roblox.com/games/YOUR_GAME_ID/Car-Phobia-Racing)
+🔗 [Play Car Phobia Racing]([https://www.roblox.com/games/YOUR_ID/Car-Phobia-Racing](https://www.roblox.com/games/83674277983953/Car-Phobia-Racing)
 
 ---
 
-### 💻 Created by [Vurfex Studios](https://www.roblox.com/groups/YOUR_GROUP_ID)
+### 💻 Made by: [Vurfex7]([https://www.roblox.com/groups/YOUR_GROUP_ID](https://discord.gg/nu4ARezFSn))
