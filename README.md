@@ -1,22 +1,94 @@
-# 🎮 Vurfex Studios – Official Game Hub
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vurfex Studios</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #ffffff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #111;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #ccc;
+    }
+    .games {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .game {
+      background: #1a1a1a;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 0 15px #222;
+    }
+    .game h2 {
+      margin: 0 0 0.5rem;
+      color: #00ffe5;
+    }
+    .game p {
+      margin: 0.5rem 0 1rem;
+    }
+    .game a {
+      background: #00ffe5;
+      color: #000;
+      padding: 0.5rem 1rem;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🔥 Vurfex Studios 🔥</h1>
+    <p>Official home of all our Roblox creations. Built by gamers, for gamers.</p>
+  </header>
 
-Welcome to the official GitHub of **Vurfex Studios** – creators of action-packed Roblox experiences.  
-Here are our current releases 👇
+  <section class="games">
+    <div class="game">
+      <h2>🚀 DASHFALL</h2>
+      <p>High-speed chaos meets explosive action. Can you survive the fall?</p>
+      <a href="https://www.roblox.com/games/YOURID/Dashfall" target="_blank">Play Dashfall</a>
+    </div>
 
----
+    <div class="game">
+      <h2>⚔️ INFRATAG</h2>
+      <p>Step into the future of laser combat in a neon-lit battlefield of reflexes and strategy.</p>
+      <a href="https://www.roblox.com/games/YOURID/InfraTag" target="_blank">Play InfraTag</a>
+    </div>
 
-## 🚀 DASHFALL  
-High-speed chaos meets explosive action.  
-🔗 [Play Dashfall]([https://www.roblox.com/games/YOUR_ID/Dashfall](https://www.roblox.com/games/136790899105739/Dashfall)
+    <div class="game">
+      <h2>🚗 CAR PHOBIA RACING</h2>
+      <p>A race against fear. Drive through panic and prove you're in control.</p>
+      <a href="https://www.roblox.com/games/YOURID/Car-Phobia-Racing" target="_blank">Play Car Phobia Racing</a>
+    </div>
+  </section>
 
-## ⚔️ INFRATAG  
-Step into the future of laser combat.  
-🔗 [Play InfraTag]([https://www.roblox.com/games/YOUR_ID/InfraTag](https://www.roblox.com/games/131683518973874/InfraTag)
-
-## 🚗 CAR PHOBIA RACING  
-A race against fear itself.  
-🔗 [Play Car Phobia Racing]([https://www.roblox.com/games/YOUR_ID/Car-Phobia-Racing](https://www.roblox.com/games/83674277983953/Car-Phobia-Racing)
-
----
-
-### 💻 Made by: [Vurfex7]([https://www.roblox.com/groups/YOUR_GROUP_ID](https://discord.gg/nu4ARezFSn))
+  <div class="footer">
+    <p>Made with ❤️ by Vurfex Studios. Roblox Group: <a href="https://www.roblox.com/groups/YOURGROUPID" target="_blank" style="color:#00ffe5;">Click Here</a></p>
+  </div>
+</body>
+</html>
